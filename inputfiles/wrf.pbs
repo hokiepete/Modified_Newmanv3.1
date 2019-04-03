@@ -1,0 +1,12 @@
+#!/bin/bash
+#PBS -V
+#PBS -d.
+#PBS -l nodes=5:ppn=16,pvmem=1536mb,walltime=72:0:0
+#PBS -m abe 
+#PBS -q sdross
+#rm wrf.pbs.*
+mpirun -n 80 -hostfile $PBS_NODEFILE /home/pnolan86/Newmanv3.1/src/newman3D ./WRF.in
+#cd ../raw2tec
+#./wrf
+cd ../scripts
+qsub mat.pbs

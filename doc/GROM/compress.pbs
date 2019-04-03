@@ -1,0 +1,10 @@
+#!/bin/bash
+#PBS -V
+#PBS -d.
+#PBS -l nodes=1:ppn=1,pvmem=16gb,walltime=72:0:0
+#PBS -m abe 
+#PBS -q sdross
+
+#tar -zcvf input.tar.gz Input
+GZIP=-9 tar zcvf output.tar.gz Output
+rm compress.pbs.*

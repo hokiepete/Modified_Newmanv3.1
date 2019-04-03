@@ -1,0 +1,13 @@
+#!/bin/bash
+#PBS -V
+#PBS -d.
+#PBS -l nodes=5:ppn=16,pvmem=1536mb,walltime=72:0:0
+#PBS -m abe 
+#PBS -q sdross
+mpirun -n 80 -hostfile $PBS_NODEFILE ../src/newman2D ./Owenstracer.in
+#mpirun -n 80 -hostfile $PBS_NODEFILE ../src/newman2D ./Owens.in
+#rm wrf.pbs.*
+#cd ../raw2tec
+#./wrf
+cd ../scripts
+qsub mat.pbs

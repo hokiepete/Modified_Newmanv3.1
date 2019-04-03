@@ -1,0 +1,11 @@
+#!/bin/bash
+#PBS -V
+#PBS -d.
+#PBS -l nodes=1:ppn=1,pvmem=24gb,walltime=72:0:0
+#PBS -m abe 
+#PBS -q sdross
+matlab -nosplash -nodisplay < raw2mat.m
+#mv FTLEOutput.mat FTLEAtt.mat
+#mv FTLEOutput.mat ../../FTLEnewcode.mat
+#rm mat.pbs.*
+#qsub animate.pbs

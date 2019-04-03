@@ -1,0 +1,14 @@
+#!/bin/bash
+
+echo raw2tec3D ${HOME}/Newmanv3.1/SodarModel/Output/FTLEatt
+
+./raw2tec3D ${HOME}/Newmanv3.1/SodarModel/Output/FTLEatt
+
+echo raw2tec3D ${HOME}/Newmanv3.1/SodarModel/Output/FTLErep
+
+./raw2tec3D ${HOME}/Newmanv3.1/SodarModel/Output/FTLErep
+
+echo raw2tec3D ${HOME}/Newmanv3.1/SodarModel/Output/romsvelplot.raw
+
+./raw2tec3D ${HOME}/Newmanv3.1/SodarModel/Output/romsvelplot.raw
+

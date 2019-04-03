@@ -1,0 +1,14 @@
+#!/bin/bash
+
+echo raw2tec3D ${HOME}/Newmanv3.1/ABC/Output/FTLEatt
+
+./raw2tec3D ${HOME}/Newmanv3.1/ABC/Output/FTLEatt
+
+echo raw2tec3D ${HOME}/Newmanv3.1/ABC/Output/FTLErep
+
+./raw2tec3D ${HOME}/Newmanv3.1/ABC/Output/FTLErep
+
+echo raw2tec3D ${HOME}/Newmanv3.1/ABC/Output/romsvelplot.raw
+
+./raw2tec3D ${HOME}/Newmanv3.1/ABC/Output/romsvelplot.raw
+

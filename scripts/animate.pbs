@@ -1,0 +1,10 @@
+#!/bin/bash
+#PBS -V
+#PBS -d.
+#PBS -l nodes=1:ppn=1,pvmem=48gb,walltime=72:0:0
+#PBS -m abe 
+#PBS -q sdross
+matlab -nosplash -nodisplay < Attracting_Feature1cridges.m
+#mv FTLEOutput.mat ../../FTLEnewcode.mat
+#rm mat.pbs.*
+#-l nodes=1:ppn=1,pvmem=24gb,walltime=72:0:0

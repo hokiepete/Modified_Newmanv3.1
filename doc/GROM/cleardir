@@ -1,0 +1,8 @@
+#!/bin/bash
+
+rm -vf compress.pbs.*
+rm -vf Input/*.*
+rm -vf Scratch/*.*
+rm -vf Work/*.*
+rm -vf Output/*.*
+#rm -vf output.tar.gz

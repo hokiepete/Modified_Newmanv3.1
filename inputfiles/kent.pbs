@@ -1,0 +1,11 @@
+#!/bin/bash
+#PBS -V
+#PBS -d.
+#PBS -l nodes=5:ppn=6,pvmem=9gb,walltime=72:0:0
+#PBS -m abe 
+#PBS -q sdross
+mpirun -n 30 -hostfile $PBS_NODEFILE /home/pnolan86/CridgeNewmanv3.1/src/newman2D ./Kentland.in
+#cd ../raw2tec
+#./raw2tec3D /home/pnolan86/RealNewmanv3.1/AlphaRep/Output/romsvelplot.raw
+#qsub AlphaAtt.pbs
+#rm kent.pbs.*

@@ -1,0 +1,70 @@
+#Parameters for AirDrop ...
+Parameters_Print		0
+FTLE_Compute			0
+Trace_Compute 			1
+Plot_Velocity  			0
+Time_Direction			-1
+#Saddle
+Output_T1       		42
+Output_TRes		 	153 #Backwards	
+#Output_TRes		 	105  #Forwards
+#Visalia
+#Output_T1       		52
+#Output_TRes		 	193 #Backwards	
+#Output_TRes		 	65  #Forwards
+Output_TDelta			0.25	
+Int_Method        		0
+Int_RelTol			1e-6
+Int_AbsTol			1e-5
+Int_TimeStep			0.1
+Path_Input			/home/pnolan86/Newmanv3.1/owens/Input
+Path_Output			/home/pnolan86/Newmanv3.1/owens/Output
+Path_Work      			/home/pnolan86/Newmanv3.1/owens/Work
+Path_Scratch			/home/pnolan86/Newmanv3.1/owens/Scratch
+Velocity_Format  		2
+V[0]  				y
+V[1]  				-sin[x]
+Data_InFile			roms
+Data_NumInputFiles  		73
+Data_Format			2
+Data_Periodic[0]		0
+Data_NonUniformGrid[0]  	0
+Data_Periodic[1]		0
+Data_NonUniformGrid[1]  	0
+Data_TRes       		73	
+Data_TDelta			1
+Data_TMin       		0.0
+Data_TPeriodic			0
+#Atmos_Set			1
+#Atmos_Radius			-100
+FTLE_Min[0]     		-1000
+FTLE_Max[0]       		1000
+FTLE_Res[0]       		164
+FTLE_Min[1]       		-1000
+FTLE_Max[1]       		1000
+FTLE_Res[1]       		163
+FTLE_IntTLength			4.0
+FTLE_OutFile			repatt
+LCS_Extract			0
+Filter_Width      		1.0
+Trace_GenerateMesh		0
+Trace_InFile			adrifter.dat
+Trace_OutFile			drift
+#Trace_MeshMin[0]		2200
+#Trace_MeshMax[0]		2400
+#Trace_MeshRes[0]		15
+#Trace_MeshMin[1]		2600
+#Trace_MeshMax[1]		2800
+#Trace_MeshRes[1]		15
+Trace_MeshReleaseTime		53
+Trace_MeshColor			1
+Trace_ColorDimension  		2
+Plot_OutFile			romsvelplot
+Plot_Min[0]        		900
+Plot_Max[0]        		2900
+Plot_Res[0]        		80
+Plot_Min[1]        		900
+Plot_Max[1]        		2900
+Plot_Res[1]        		80
+#Boundary_Method			2
+#Boundary_InFile			wrfboundary.dat

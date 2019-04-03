@@ -1,0 +1,9 @@
+#!/bin/bash
+#PBS -V
+#PBS -d.
+#PBS -l nodes=3:ppn=16,pvmem=1536mb,walltime=72:0:0
+#PBS -m abe 
+#PBS -q sdross
+mpirun -n 48 -hostfile $PBS_NODEFILE /home/pnolan86/TWEEKEDNewmanv3.1/src/newman2D ./pendulum.in
+cd ../scripts
+qsub mat.pbs

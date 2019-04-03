@@ -1,0 +1,17 @@
+#!/bin/bash
+
+echo raw2tec3D ${HOME}/Newmanv3.1/WRF/Output/FTLEatt
+
+./raw2tec3D ${HOME}/Newmanv3.1/WRF/Output/FTLEatt
+
+echo raw2tec3D ${HOME}/Newmanv3.1/WRF/Output/FTLErep
+
+./raw2tec3D ${HOME}/Newmanv3.1/WRF/Output/FTLErep
+
+echo raw2tec3D ${HOME}/Newmanv3.1/WRF/Output/romsvelplot.raw
+
+./raw2tec3D ${HOME}/Newmanv3.1/WRF/Output/romsvelplot.raw
+
+echo raw2tec3D ${HOME}/Newmanv3.1/WRF/Output/drift.raw
+
+./raw2tec3D ${HOME}/Newmanv3.1/WRF/Output/drift.raw

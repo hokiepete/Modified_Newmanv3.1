@@ -1,0 +1,4014 @@
+Setting default parameter values ... OK!
+Reading in Parameters from ./Kentland.in ...
+4 : Converting data frame 4 to binary.
+Setting derived parameters ...
+OK!
+Checking parameters ... OK!
+0 : Converting data frame 0 to binary.
+2 : Converting data frame 2 to binary.
+3 : Converting data frame 3 to binary.
+1 : Converting data frame 1 to binary.
+16 : Converting data frame 16 to binary.
+17 : Converting data frame 17 to binary.
+5 : Converting data frame 5 to binary.
+12 : Converting data frame 12 to binary.
+13 : Converting data frame 13 to binary.
+15 : Converting data frame 15 to binary.
+14 : Converting data frame 14 to binary.
+21 : Converting data frame 21 to binary.
+23 : Converting data frame 23 to binary.
+18 : Converting data frame 18 to binary.
+19 : Converting data frame 19 to binary.
+20 : Converting data frame 20 to binary.
+6 : Converting data frame 6 to binary.
+25 : Converting data frame 25 to binary.
+7 : Converting data frame 7 to binary.
+26 : Converting data frame 26 to binary.
+-603000  603000   403
+-600000  600000   401
+8 : Converting data frame 8 to binary.
+27 : Converting data frame 27 to binary.
+9 : Converting data frame 9 to binary.
+28 : Converting data frame 28 to binary.
+10 : Converting data frame 10 to binary.
+29 : Converting data frame 29 to binary.
+11 : Converting data frame 11 to binary.
+24 : Converting data frame 24 to binary.
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 22 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+26 : Converting data frame 56 to binary.
+27 : Converting data frame 57 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+7 : Converting data frame 37 to binary.
+11 : Converting data frame 41 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 33 to binary.
+-603000  603000   403
+-600000  600000   401
+2 : Converting data frame 32 to binary.
+18 : Converting data frame 48 to binary.
+19 : Converting data frame 49 to binary.
+21 : Converting data frame 51 to binary.
+23 : Converting data frame 53 to binary.
+14 : Converting data frame 44 to binary.
+24 : Converting data frame 54 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+20 : Converting data frame 50 to binary.
+16 : Converting data frame 46 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 52 to binary.
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 43 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+5 : Converting data frame 35 to binary.
+12 : Converting data frame 42 to binary.
+0 : Converting data frame 30 to binary.
+1 : Converting data frame 31 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+4 : Converting data frame 34 to binary.
+-603000  603000   403
+-600000  600000   401
+9 : Converting data frame 39 to binary.
+6 : Converting data frame 36 to binary.
+8 : Converting data frame 38 to binary.
+-603000  603000   403
+-600000  600000   401
+15 : Converting data frame 45 to binary.
+10 : Converting data frame 40 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+17 : Converting data frame 47 to binary.
+19 : Converting data frame 79 to binary.
+-603000  603000   403
+-600000  600000   401
+23 : Converting data frame 83 to binary.
+3 : Converting data frame 63 to binary.
+21 : Converting data frame 81 to binary.
+7 : Converting data frame 67 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+20 : Converting data frame 80 to binary.
+-603000  603000   403
+-600000  600000   401
+25 : Converting data frame 55 to binary.
+16 : Converting data frame 76 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+29 : Converting data frame 59 to binary.
+18 : Converting data frame 78 to binary.
+27 : Converting data frame 87 to binary.
+-603000  603000   403
+-600000  600000   401
+28 : Converting data frame 58 to binary.
+26 : Converting data frame 86 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 82 to binary.
+-603000  603000   403
+-600000  600000   401
+24 : Converting data frame 84 to binary.
+-603000  603000   403
+-600000  600000   401
+10 : Converting data frame 70 to binary.
+4 : Converting data frame 64 to binary.
+6 : Converting data frame 66 to binary.
+1 : Converting data frame 61 to binary.
+12 : Converting data frame 72 to binary.
+2 : Converting data frame 62 to binary.
+0 : Converting data frame 60 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 71 to binary.
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 73 to binary.
+-603000  603000   403
+-600000  600000   401
+5 : Converting data frame 65 to binary.
+17 : Converting data frame 77 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+8 : Converting data frame 68 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+9 : Converting data frame 69 to binary.
+27 : Converting data frame 117 to binary.
+26 : Converting data frame 116 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+21 : Converting data frame 111 to binary.
+-603000  603000   403
+-600000  600000   401
+25 : Converting data frame 85 to binary.
+-603000  603000   403
+-600000  600000   401
+14 : Converting data frame 74 to binary.
+15 : Converting data frame 75 to binary.
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 112 to binary.
+24 : Converting data frame 114 to binary.
+7 : Converting data frame 97 to binary.
+-603000  603000   403
+-600000  600000   401
+29 : Converting data frame 89 to binary.
+-603000  603000   403
+-600000  600000   401
+28 : Converting data frame 88 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 106 to binary.
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 109 to binary.
+23 : Converting data frame 113 to binary.
+20 : Converting data frame 110 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+18 : Converting data frame 108 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+27 : Converting data frame 147 to binary.
+-603000  603000   403
+-600000  600000   401
+0 : Converting data frame 90 to binary.
+1 : Converting data frame 91 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 96 to binary.
+25 : Converting data frame 115 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 93 to binary.
+-603000  603000   403
+-600000  600000   401
+26 : Converting data frame 146 to binary.
+-603000  603000   403
+-600000  600000   401
+24 : Converting data frame 144 to binary.
+21 : Converting data frame 141 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+27 : Converting data frame 177 to binary.
+12 : Converting data frame 102 to binary.
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 103 to binary.
+-603000  603000   403
+-600000  600000   401
+2 : Converting data frame 92 to binary.
+-603000  603000   403
+-600000  600000   401
+4 : Converting data frame 94 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+25 : Converting data frame 145 to binary.
+19 : Converting data frame 139 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 101 to binary.
+5 : Converting data frame 95 to binary.
+9 : Converting data frame 99 to binary.
+8 : Converting data frame 98 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+10 : Converting data frame 100 to binary.
+-603000  603000   403
+-600000  600000   401
+29 : Converting data frame 119 to binary.
+17 : Converting data frame 107 to binary.
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 136 to binary.
+-603000  603000   403
+-600000  600000   401
+0 : Converting data frame 120 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+28 : Converting data frame 118 to binary.
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 142 to binary.
+7 : Converting data frame 127 to binary.
+-603000  603000   403
+-600000  600000   401
+26 : Converting data frame 176 to binary.
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 121 to binary.
+-603000  603000   403
+-600000  600000   401
+15 : Converting data frame 105 to binary.
+20 : Converting data frame 140 to binary.
+23 : Converting data frame 143 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+18 : Converting data frame 138 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+14 : Converting data frame 104 to binary.
+3 : Converting data frame 123 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 126 to binary.
+-603000  603000   403
+-600000  600000   401
+21 : Converting data frame 171 to binary.
+12 : Converting data frame 132 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+4 : Converting data frame 124 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+27 : Converting data frame 207 to binary.
+24 : Converting data frame 174 to binary.
+25 : Converting data frame 175 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 169 to binary.
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 133 to binary.
+-603000  603000   403
+-600000  600000   401
+8 : Converting data frame 128 to binary.
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 131 to binary.
+2 : Converting data frame 122 to binary.
+5 : Converting data frame 125 to binary.
+29 : Converting data frame 149 to binary.
+-603000  603000   403
+-600000  600000   401
+0 : Converting data frame 150 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+26 : Converting data frame 206 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 166 to binary.
+-603000  603000   403
+-600000  600000   401
+17 : Converting data frame 137 to binary.
+-603000  603000   403
+-600000  600000   401
+20 : Converting data frame 170 to binary.
+1 : Converting data frame 151 to binary.
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 172 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+28 : Converting data frame 148 to binary.
+-603000  603000   403
+-600000  600000   401
+23 : Converting data frame 173 to binary.
+-603000  603000   403
+-600000  600000   401
+10 : Converting data frame 130 to binary.
+9 : Converting data frame 129 to binary.
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 153 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+14 : Converting data frame 134 to binary.
+15 : Converting data frame 135 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 199 to binary.
+4 : Converting data frame 154 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+21 : Converting data frame 201 to binary.
+18 : Converting data frame 168 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+24 : Converting data frame 204 to binary.
+25 : Converting data frame 205 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+27 : Converting data frame 237 to binary.
+12 : Converting data frame 162 to binary.
+-603000  603000   403
+-600000  600000   401
+2 : Converting data frame 152 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 163 to binary.
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 156 to binary.
+7 : Converting data frame 157 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+29 : Converting data frame 179 to binary.
+26 : Converting data frame 236 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 196 to binary.
+-603000  603000   403
+-600000  600000   401
+20 : Converting data frame 200 to binary.
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 202 to binary.
+-603000  603000   403
+-600000  600000   401
+5 : Converting data frame 155 to binary.
+-603000  603000   403
+-600000  600000   401
+0 : Converting data frame 180 to binary.
+8 : Converting data frame 158 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+25 : Converting data frame 235 to binary.
+-603000  603000   403
+-600000  600000   401
+24 : Converting data frame 234 to binary.
+-603000  603000   403
+-600000  600000   401
+23 : Converting data frame 203 to binary.
+18 : Converting data frame 198 to binary.
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 181 to binary.
+11 : Converting data frame 161 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+21 : Converting data frame 231 to binary.
+3 : Converting data frame 183 to binary.
+15 : Converting data frame 165 to binary.
+-603000  603000   403
+-600000  600000   401
+17 : Converting data frame 167 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 229 to binary.
+6 : Converting data frame 186 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+4 : Converting data frame 184 to binary.
+-603000  603000   403
+-600000  600000   401
+26 : Converting data frame 266 to binary.
+27 : Converting data frame 267 to binary.
+29 : Converting data frame 209 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+28 : Converting data frame 178 to binary.
+-603000  603000   403
+-600000  600000   401
+2 : Converting data frame 182 to binary.
+-603000  603000   403
+-600000  600000   401
+9 : Converting data frame 159 to binary.
+13 : Converting data frame 193 to binary.
+-603000  603000   403
+-600000  600000   401
+7 : Converting data frame 187 to binary.
+-603000  603000   403
+-600000  600000   401
+8 : Converting data frame 188 to binary.
+-603000  603000   403
+-600000  600000   401
+12 : Converting data frame 192 to binary.
+14 : Converting data frame 164 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 226 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+24 : Converting data frame 264 to binary.
+-603000  603000   403
+-600000  600000   401
+25 : Converting data frame 265 to binary.
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 232 to binary.
+0 : Converting data frame 210 to binary.
+5 : Converting data frame 185 to binary.
+20 : Converting data frame 230 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 191 to binary.
+10 : Converting data frame 160 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+27 : Converting data frame 297 to binary.
+17 : Converting data frame 197 to binary.
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 211 to binary.
+28 : Converting data frame 208 to binary.
+-603000  603000   403
+-600000  600000   401
+29 : Converting data frame 239 to binary.
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 216 to binary.
+-603000  603000   403
+-600000  600000   401
+18 : Converting data frame 228 to binary.
+23 : Converting data frame 233 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 213 to binary.
+19 : Converting data frame 259 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+26 : Converting data frame 296 to binary.
+-603000  603000   403
+-600000  600000   401
+24 : Converting data frame 294 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+21 : Converting data frame 261 to binary.
+-603000  603000   403
+-600000  600000   401
+4 : Converting data frame 214 to binary.
+2 : Converting data frame 212 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 223 to binary.
+12 : Converting data frame 222 to binary.
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 256 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+25 : Converting data frame 295 to binary.
+9 : Converting data frame 189 to binary.
+-603000  603000   403
+-600000  600000   401
+8 : Converting data frame 218 to binary.
+7 : Converting data frame 217 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 262 to binary.
+-603000  603000   403
+-600000  600000   401
+5 : Converting data frame 215 to binary.
+0 : Converting data frame 240 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+23 : Converting data frame 263 to binary.
+27 : Converting data frame 327 to binary.
+10 : Converting data frame 190 to binary.
+14 : Converting data frame 194 to binary.
+29 : Converting data frame 269 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+15 : Converting data frame 195 to binary.
+-603000  603000   403
+-600000  600000   401
+26 : Converting data frame 326 to binary.
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 221 to binary.
+-603000  603000   403
+-600000  600000   401
+18 : Converting data frame 258 to binary.
+17 : Converting data frame 227 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+28 : Converting data frame 238 to binary.
+-603000  603000   403
+-600000  600000   401
+24 : Converting data frame 324 to binary.
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 241 to binary.
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 246 to binary.
+-603000  603000   403
+-600000  600000   401
+12 : Converting data frame 252 to binary.
+-603000  603000   403
+-600000  600000   401
+8 : Converting data frame 248 to binary.
+-603000  603000   403
+-600000  600000   401
+2 : Converting data frame 242 to binary.
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 243 to binary.
+-603000  603000   403
+-600000  600000   401
+27 : Converting data frame 357 to binary.
+-603000  603000   403
+-600000  600000   401
+25 : Converting data frame 325 to binary.
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 253 to binary.
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 286 to binary.
+-603000  603000   403
+-600000  600000   401
+9 : Converting data frame 219 to binary.
+0 : Converting data frame 270 to binary.
+-603000  603000   403
+-600000  600000   401
+7 : Converting data frame 247 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+20 : Converting data frame 260 to binary.
+-603000  603000   403
+-600000  600000   401
+4 : Converting data frame 244 to binary.
+-603000  603000   403
+-600000  600000   401
+28 : Converting data frame 268 to binary.
+-603000  603000   403
+-600000  600000   401
+14 : Converting data frame 224 to binary.
+-603000  603000   403
+-600000  600000   401
+15 : Converting data frame 225 to binary.
+-603000  603000   403
+-600000  600000   401
+24 : Converting data frame 354 to binary.
+-603000  603000   403
+-600000  600000   401
+29 : Converting data frame 299 to binary.
+-603000  603000   403
+-600000  600000   401
+26 : Converting data frame 356 to binary.
+-603000  603000   403
+-600000  600000   401
+10 : Converting data frame 220 to binary.
+5 : Converting data frame 245 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 251 to binary.
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 276 to binary.
+-603000  603000   403
+-600000  600000   401
+17 : Converting data frame 257 to binary.
+22 : Converting data frame 292 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+21 : Converting data frame 291 to binary.
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 289 to binary.
+-603000  603000   403
+-600000  600000   401
+27 : Converting data frame 387 to binary.
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 271 to binary.
+-603000  603000   403
+-600000  600000   401
+8 : Converting data frame 278 to binary.
+-603000  603000   403
+-600000  600000   401
+2 : Converting data frame 272 to binary.
+12 : Converting data frame 282 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+23 : Converting data frame 293 to binary.
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 283 to binary.
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 316 to binary.
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 273 to binary.
+-603000  603000   403
+-600000  600000   401
+25 : Converting data frame 355 to binary.
+-603000  603000   403
+-600000  600000   401
+0 : Converting data frame 300 to binary.
+9 : Converting data frame 249 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+28 : Converting data frame 298 to binary.
+-603000  603000   403
+-600000  600000   401
+7 : Converting data frame 277 to binary.
+-603000  603000   403
+-600000  600000   401
+18 : Converting data frame 288 to binary.
+-603000  603000   403
+-600000  600000   401
+4 : Converting data frame 274 to binary.
+-603000  603000   403
+-600000  600000   401
+20 : Converting data frame 290 to binary.
+-603000  603000   403
+-600000  600000   401
+5 : Converting data frame 275 to binary.
+2 : Converting data frame 302 to binary.
+6 : Converting data frame 306 to binary.
+29 : Converting data frame 329 to binary.
+-603000  603000   403
+-600000  600000   401
+8 : Converting data frame 308 to binary.
+26 : Converting data frame 386 to binary.
+24 : Converting data frame 384 to binary.
+25 : Converting data frame 385 to binary.
+27 : Converting data frame 417 to binary.
+17 : Converting data frame 287 to binary.
+14 : Converting data frame 254 to binary.
+23 : Converting data frame 323 to binary.
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 319 to binary.
+21 : Converting data frame 321 to binary.
+22 : Converting data frame 322 to binary.
+10 : Converting data frame 250 to binary.
+-603000  603000   403
+-600000  600000   401
+12 : Converting data frame 312 to binary.
+13 : Converting data frame 313 to binary.
+15 : Converting data frame 255 to binary.
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 281 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 346 to binary.
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 301 to binary.
+0 : Converting data frame 330 to binary.
+18 : Converting data frame 318 to binary.
+-603000  603000   403
+-600000  600000   401
+20 : Converting data frame 320 to binary.
+-603000  603000   403
+-600000  600000   401
+7 : Converting data frame 307 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+9 : Converting data frame 279 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+28 : Converting data frame 328 to binary.
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 303 to binary.
+-603000  603000   403
+-600000  600000   401
+4 : Converting data frame 304 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+17 : Converting data frame 317 to binary.
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 336 to binary.
+-603000  603000   403
+-600000  600000   401
+29 : Converting data frame 359 to binary.
+-603000  603000   403
+-600000  600000   401
+15 : Converting data frame 285 to binary.
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 376 to binary.
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 349 to binary.
+8 : Converting data frame 338 to binary.
+10 : Converting data frame 280 to binary.
+-603000  603000   403
+-600000  600000   401
+12 : Converting data frame 342 to binary.
+-603000  603000   403
+-600000  600000   401
+23 : Converting data frame 353 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 352 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+26 : Converting data frame 416 to binary.
+0 : Converting data frame 360 to binary.
+4 : Converting data frame 334 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+9 : Converting data frame 309 to binary.
+-603000  603000   403
+-600000  600000   401
+27 : Converting data frame 447 to binary.
+25 : Converting data frame 415 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+24 : Converting data frame 414 to binary.
+-603000  603000   403
+-600000  600000   401
+18 : Converting data frame 348 to binary.
+20 : Converting data frame 350 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 333 to binary.
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 366 to binary.
+1 : Converting data frame 331 to binary.
+28 : Converting data frame 358 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 406 to binary.
+15 : Converting data frame 315 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+29 : Converting data frame 389 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+8 : Converting data frame 368 to binary.
+-603000  603000   403
+-600000  600000   401
+12 : Converting data frame 372 to binary.
+-603000  603000   403
+-600000  600000   401
+27 : Converting data frame 477 to binary.
+25 : Converting data frame 445 to binary.
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 379 to binary.
+0 : Converting data frame 390 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+23 : Converting data frame 383 to binary.
+-603000  603000   403
+-600000  600000   401
+24 : Converting data frame 444 to binary.
+4 : Converting data frame 364 to binary.
+26 : Converting data frame 446 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 396 to binary.
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 436 to binary.
+-603000  603000   403
+-600000  600000   401
+29 : Converting data frame 419 to binary.
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 382 to binary.
+20 : Converting data frame 380 to binary.
+-603000  603000   403
+-600000  600000   401
+18 : Converting data frame 378 to binary.
+-603000  603000   403
+-600000  600000   401
+15 : Converting data frame 345 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+8 : Converting data frame 398 to binary.
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 363 to binary.
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 361 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+27 : Converting data frame 507 to binary.
+28 : Converting data frame 388 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+12 : Converting data frame 402 to binary.
+-603000  603000   403
+-600000  600000   401
+25 : Converting data frame 475 to binary.
+-603000  603000   403
+-600000  600000   401
+0 : Converting data frame 420 to binary.
+-603000  603000   403
+-600000  600000   401
+26 : Converting data frame 476 to binary.
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 409 to binary.
+-603000  603000   403
+-600000  600000   401
+4 : Converting data frame 394 to binary.
+-603000  603000   403
+-600000  600000   401
+24 : Converting data frame 474 to binary.
+-603000  603000   403
+-600000  600000   401
+29 : Converting data frame 449 to binary.
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 466 to binary.
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 426 to binary.
+-603000  603000   403
+-600000  600000   401
+27 : Converting data frame 537 to binary.
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 391 to binary.
+-603000  603000   403
+-600000  600000   401
+15 : Converting data frame 375 to binary.
+-603000  603000   403
+-600000  600000   401
+8 : Converting data frame 428 to binary.
+-603000  603000   403
+-600000  600000   401
+18 : Converting data frame 408 to binary.
+23 : Converting data frame 413 to binary.
+-603000  603000   403
+-600000  600000   401
+12 : Converting data frame 432 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 412 to binary.
+25 : Converting data frame 505 to binary.
+3 : Converting data frame 393 to binary.
+-603000  603000   403
+-600000  600000   401
+0 : Converting data frame 450 to binary.
+28 : Converting data frame 418 to binary.
+-603000  603000   403
+-600000  600000   401
+26 : Converting data frame 506 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+20 : Converting data frame 410 to binary.
+-603000  603000   403
+-600000  600000   401
+29 : Converting data frame 479 to binary.
+-603000  603000   403
+-600000  600000   401
+4 : Converting data frame 424 to binary.
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 496 to binary.
+-603000  603000   403
+-600000  600000   401
+24 : Converting data frame 504 to binary.
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 439 to binary.
+-603000  603000   403
+-600000  600000   401
+27 : Converting data frame 567 to binary.
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 456 to binary.
+-603000  603000   403
+-600000  600000   401
+15 : Converting data frame 405 to binary.
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 421 to binary.
+-603000  603000   403
+-600000  600000   401
+26 : Converting data frame 536 to binary.
+8 : Converting data frame 458 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+28 : Converting data frame 448 to binary.
+-603000  603000   403
+-600000  600000   401
+18 : Converting data frame 438 to binary.
+-603000  603000   403
+-600000  600000   401
+12 : Converting data frame 462 to binary.
+-603000  603000   403
+-600000  600000   401
+0 : Converting data frame 480 to binary.
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 442 to binary.
+23 : Converting data frame 443 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+25 : Converting data frame 535 to binary.
+16 : Converting data frame 526 to binary.
+29 : Converting data frame 509 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+20 : Converting data frame 440 to binary.
+4 : Converting data frame 454 to binary.
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 423 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 469 to binary.
+-603000  603000   403
+-600000  600000   401
+27 : Converting data frame 597 to binary.
+-603000  603000   403
+-600000  600000   401
+15 : Converting data frame 435 to binary.
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 486 to binary.
+-603000  603000   403
+-600000  600000   401
+24 : Converting data frame 534 to binary.
+8 : Converting data frame 488 to binary.
+-603000  603000   403
+-600000  600000   401
+28 : Converting data frame 478 to binary.
+-603000  603000   403
+-600000  600000   401
+26 : Converting data frame 566 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+12 : Converting data frame 492 to binary.
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 451 to binary.
+18 : Converting data frame 468 to binary.
+-603000  603000   403
+-600000  600000   401
+29 : Converting data frame 539 to binary.
+25 : Converting data frame 565 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 472 to binary.
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 556 to binary.
+-603000  603000   403
+-600000  600000   401
+0 : Converting data frame 510 to binary.
+23 : Converting data frame 473 to binary.
+-603000  603000   403
+-600000  600000   401
+27 : Converting data frame 627 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 499 to binary.
+-603000  603000   403
+-600000  600000   401
+26 : Converting data frame 596 to binary.
+-603000  603000   403
+-600000  600000   401
+15 : Converting data frame 465 to binary.
+-603000  603000   403
+-600000  600000   401
+20 : Converting data frame 470 to binary.
+4 : Converting data frame 484 to binary.
+-603000  603000   403
+-600000  600000   401
+28 : Converting data frame 508 to binary.
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 453 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 516 to binary.
+-603000  603000   403
+-600000  600000   401
+29 : Converting data frame 569 to binary.
+-603000  603000   403
+-600000  600000   401
+12 : Converting data frame 522 to binary.
+-603000  603000   403
+-600000  600000   401
+8 : Converting data frame 518 to binary.
+24 : Converting data frame 564 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+25 : Converting data frame 595 to binary.
+-603000  603000   403
+-600000  600000   401
+26 : Converting data frame 626 to binary.
+-603000  603000   403
+-600000  600000   401
+27 : Converting data frame 657 to binary.
+22 : Converting data frame 502 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 481 to binary.
+-603000  603000   403
+-600000  600000   401
+18 : Converting data frame 498 to binary.
+-603000  603000   403
+-600000  600000   401
+23 : Converting data frame 503 to binary.
+-603000  603000   403
+-600000  600000   401
+0 : Converting data frame 540 to binary.
+-603000  603000   403
+-600000  600000   401
+15 : Converting data frame 495 to binary.
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 529 to binary.
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 586 to binary.
+-603000  603000   403
+-600000  600000   401
+28 : Converting data frame 538 to binary.
+-603000  603000   403
+-600000  600000   401
+29 : Converting data frame 599 to binary.
+-603000  603000   403
+-600000  600000   401
+20 : Converting data frame 500 to binary.
+-603000  603000   403
+-600000  600000   401
+4 : Converting data frame 514 to binary.
+-603000  603000   403
+-600000  600000   401
+25 : Converting data frame 625 to binary.
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 483 to binary.
+-603000  603000   403
+-600000  600000   401
+26 : Converting data frame 656 to binary.
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 546 to binary.
+-603000  603000   403
+-600000  600000   401
+12 : Converting data frame 552 to binary.
+-603000  603000   403
+-600000  600000   401
+8 : Converting data frame 548 to binary.
+-603000  603000   403
+-600000  600000   401
+24 : Converting data frame 594 to binary.
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 511 to binary.
+-603000  603000   403
+-600000  600000   401
+27 : Converting data frame 687 to binary.
+-603000  603000   403
+-600000  600000   401
+18 : Converting data frame 528 to binary.
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 532 to binary.
+-603000  603000   403
+-600000  600000   401
+28 : Converting data frame 568 to binary.
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 616 to binary.
+-603000  603000   403
+-600000  600000   401
+15 : Converting data frame 525 to binary.
+0 : Converting data frame 570 to binary.
+23 : Converting data frame 533 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 559 to binary.
+-603000  603000   403
+-600000  600000   401
+29 : Converting data frame 629 to binary.
+-603000  603000   403
+-600000  600000   401
+25 : Converting data frame 655 to binary.
+20 : Converting data frame 530 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+24 : Converting data frame 624 to binary.
+-603000  603000   403
+-600000  600000   401
+4 : Converting data frame 544 to binary.
+-603000  603000   403
+-600000  600000   401
+26 : Converting data frame 686 to binary.
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 513 to binary.
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 576 to binary.
+-603000  603000   403
+-600000  600000   401
+12 : Converting data frame 582 to binary.
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 541 to binary.
+-603000  603000   403
+-600000  600000   401
+27 : Converting data frame 717 to binary.
+-603000  603000   403
+-600000  600000   401
+28 : Converting data frame 598 to binary.
+8 : Converting data frame 578 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+0 : Converting data frame 600 to binary.
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 646 to binary.
+22 : Converting data frame 562 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+29 : Converting data frame 659 to binary.
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 589 to binary.
+15 : Converting data frame 555 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+25 : Converting data frame 685 to binary.
+-603000  603000   403
+-600000  600000   401
+18 : Converting data frame 558 to binary.
+-603000  603000   403
+-600000  600000   401
+20 : Converting data frame 560 to binary.
+-603000  603000   403
+-600000  600000   401
+23 : Converting data frame 563 to binary.
+-603000  603000   403
+-600000  600000   401
+24 : Converting data frame 654 to binary.
+-603000  603000   403
+-600000  600000   401
+4 : Converting data frame 574 to binary.
+-603000  603000   403
+-600000  600000   401
+26 : Converting data frame 716 to binary.
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 543 to binary.
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 606 to binary.
+-603000  603000   403
+-600000  600000   401
+12 : Converting data frame 612 to binary.
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 571 to binary.
+-603000  603000   403
+-600000  600000   401
+28 : Converting data frame 628 to binary.
+27 : Converting data frame 747 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+8 : Converting data frame 608 to binary.
+-603000  603000   403
+-600000  600000   401
+29 : Converting data frame 689 to binary.
+-603000  603000   403
+-600000  600000   401
+25 : Converting data frame 715 to binary.
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 676 to binary.
+-603000  603000   403
+-600000  600000   401
+0 : Converting data frame 630 to binary.
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 592 to binary.
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 619 to binary.
+-603000  603000   403
+-600000  600000   401
+24 : Converting data frame 684 to binary.
+-603000  603000   403
+-600000  600000   401
+15 : Converting data frame 585 to binary.
+-603000  603000   403
+-600000  600000   401
+18 : Converting data frame 588 to binary.
+-603000  603000   403
+-600000  600000   401
+20 : Converting data frame 590 to binary.
+-603000  603000   403
+-600000  600000   401
+23 : Converting data frame 593 to binary.
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 573 to binary.
+-603000  603000   403
+-600000  600000   401
+4 : Converting data frame 604 to binary.
+6 : Converting data frame 636 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+26 : Converting data frame 746 to binary.
+-603000  603000   403
+-600000  600000   401
+27 : Converting data frame 777 to binary.
+-603000  603000   403
+-600000  600000   401
+28 : Converting data frame 658 to binary.
+-603000  603000   403
+-600000  600000   401
+12 : Converting data frame 642 to binary.
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 601 to binary.
+-603000  603000   403
+-600000  600000   401
+8 : Converting data frame 638 to binary.
+-603000  603000   403
+-600000  600000   401
+29 : Converting data frame 719 to binary.
+-603000  603000   403
+-600000  600000   401
+25 : Converting data frame 745 to binary.
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 706 to binary.
+0 : Converting data frame 660 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+24 : Converting data frame 714 to binary.
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 622 to binary.
+-603000  603000   403
+-600000  600000   401
+15 : Converting data frame 615 to binary.
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 649 to binary.
+-603000  603000   403
+-600000  600000   401
+18 : Converting data frame 618 to binary.
+-603000  603000   403
+-600000  600000   401
+20 : Converting data frame 620 to binary.
+-603000  603000   403
+-600000  600000   401
+26 : Converting data frame 776 to binary.
+-603000  603000   403
+-600000  600000   401
+27 : Converting data frame 807 to binary.
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 666 to binary.
+-603000  603000   403
+-600000  600000   401
+28 : Converting data frame 688 to binary.
+-603000  603000   403
+-600000  600000   401
+23 : Converting data frame 623 to binary.
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 603 to binary.
+-603000  603000   403
+-600000  600000   401
+4 : Converting data frame 634 to binary.
+-603000  603000   403
+-600000  600000   401
+12 : Converting data frame 672 to binary.
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 631 to binary.
+-603000  603000   403
+-600000  600000   401
+25 : Converting data frame 775 to binary.
+-603000  603000   403
+-600000  600000   401
+29 : Converting data frame 749 to binary.
+-603000  603000   403
+-600000  600000   401
+8 : Converting data frame 668 to binary.
+-603000  603000   403
+-600000  600000   401
+24 : Converting data frame 744 to binary.
+-603000  603000   403
+-600000  600000   401
+0 : Converting data frame 690 to binary.
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 736 to binary.
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 652 to binary.
+-603000  603000   403
+-600000  600000   401
+15 : Converting data frame 645 to binary.
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 679 to binary.
+-603000  603000   403
+-600000  600000   401
+27 : Converting data frame 837 to binary.
+-603000  603000   403
+-600000  600000   401
+18 : Converting data frame 648 to binary.
+-603000  603000   403
+-600000  600000   401
+26 : Converting data frame 806 to binary.
+-603000  603000   403
+-600000  600000   401
+20 : Converting data frame 650 to binary.
+-603000  603000   403
+-600000  600000   401
+28 : Converting data frame 718 to binary.
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 696 to binary.
+-603000  603000   403
+-600000  600000   401
+23 : Converting data frame 653 to binary.
+-603000  603000   403
+-600000  600000   401
+25 : Converting data frame 805 to binary.
+-603000  603000   403
+-600000  600000   401
+12 : Converting data frame 702 to binary.
+-603000  603000   403
+-600000  600000   401
+4 : Converting data frame 664 to binary.
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 633 to binary.
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 661 to binary.
+-603000  603000   403
+-600000  600000   401
+29 : Converting data frame 779 to binary.
+-603000  603000   403
+-600000  600000   401
+24 : Converting data frame 774 to binary.
+-603000  603000   403
+-600000  600000   401
+8 : Converting data frame 698 to binary.
+-603000  603000   403
+-600000  600000   401
+0 : Converting data frame 720 to binary.
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 766 to binary.
+-603000  603000   403
+-600000  600000   401
+15 : Converting data frame 675 to binary.
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 682 to binary.
+-603000  603000   403
+-600000  600000   401
+27 : Converting data frame 867 to binary.
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 709 to binary.
+-603000  603000   403
+-600000  600000   401
+28 : Converting data frame 748 to binary.
+-603000  603000   403
+-600000  600000   401
+18 : Converting data frame 678 to binary.
+-603000  603000   403
+-600000  600000   401
+25 : Converting data frame 835 to binary.
+-603000  603000   403
+-600000  600000   401
+20 : Converting data frame 680 to binary.
+-603000  603000   403
+-600000  600000   401
+26 : Converting data frame 836 to binary.
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 726 to binary.
+-603000  603000   403
+-600000  600000   401
+23 : Converting data frame 683 to binary.
+-603000  603000   403
+-600000  600000   401
+24 : Converting data frame 804 to binary.
+-603000  603000   403
+-600000  600000   401
+4 : Converting data frame 694 to binary.
+-603000  603000   403
+-600000  600000   401
+12 : Converting data frame 732 to binary.
+-603000  603000   403
+-600000  600000   401
+29 : Converting data frame 809 to binary.
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 691 to binary.
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 663 to binary.
+-603000  603000   403
+-600000  600000   401
+8 : Converting data frame 728 to binary.
+-603000  603000   403
+-600000  600000   401
+0 : Converting data frame 750 to binary.
+-603000  603000   403
+-600000  600000   401
+15 : Converting data frame 705 to binary.
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 796 to binary.
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 712 to binary.
+-603000  603000   403
+-600000  600000   401
+27 : Converting data frame 897 to binary.
+-603000  603000   403
+-600000  600000   401
+28 : Converting data frame 778 to binary.
+-603000  603000   403
+-600000  600000   401
+18 : Converting data frame 708 to binary.
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 739 to binary.
+-603000  603000   403
+-600000  600000   401
+25 : Converting data frame 865 to binary.
+-603000  603000   403
+-600000  600000   401
+26 : Converting data frame 866 to binary.
+-603000  603000   403
+-600000  600000   401
+20 : Converting data frame 710 to binary.
+-603000  603000   403
+-600000  600000   401
+24 : Converting data frame 834 to binary.
+-603000  603000   403
+-600000  600000   401
+29 : Converting data frame 839 to binary.
+-603000  603000   403
+-600000  600000   401
+23 : Converting data frame 713 to binary.
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 756 to binary.
+-603000  603000   403
+-600000  600000   401
+12 : Converting data frame 762 to binary.
+-603000  603000   403
+-600000  600000   401
+4 : Converting data frame 724 to binary.
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 693 to binary.
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 721 to binary.
+-603000  603000   403
+-600000  600000   401
+8 : Converting data frame 758 to binary.
+-603000  603000   403
+-600000  600000   401
+0 : Converting data frame 780 to binary.
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 742 to binary.
+-603000  603000   403
+-600000  600000   401
+15 : Converting data frame 735 to binary.
+28 : Converting data frame 808 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 826 to binary.
+-603000  603000   403
+-600000  600000   401
+27 : Converting data frame 927 to binary.
+-603000  603000   403
+-600000  600000   401
+25 : Converting data frame 895 to binary.
+-603000  603000   403
+-600000  600000   401
+26 : Converting data frame 896 to binary.
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 769 to binary.
+18 : Converting data frame 738 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+20 : Converting data frame 740 to binary.
+-603000  603000   403
+-600000  600000   401
+24 : Converting data frame 864 to binary.
+-603000  603000   403
+-600000  600000   401
+29 : Converting data frame 869 to binary.
+-603000  603000   403
+-600000  600000   401
+23 : Converting data frame 743 to binary.
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 786 to binary.
+-603000  603000   403
+-600000  600000   401
+12 : Converting data frame 792 to binary.
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 751 to binary.
+-603000  603000   403
+-600000  600000   401
+8 : Converting data frame 788 to binary.
+-603000  603000   403
+-600000  600000   401
+0 : Converting data frame 810 to binary.
+-603000  603000   403
+-600000  600000   401
+28 : Converting data frame 838 to binary.
+-603000  603000   403
+-600000  600000   401
+27 : Converting data frame 957 to binary.
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 772 to binary.
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 723 to binary.
+4 : Converting data frame 754 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+15 : Converting data frame 765 to binary.
+-603000  603000   403
+-600000  600000   401
+26 : Converting data frame 926 to binary.
+25 : Converting data frame 925 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 856 to binary.
+-603000  603000   403
+-600000  600000   401
+20 : Converting data frame 770 to binary.
+-603000  603000   403
+-600000  600000   401
+24 : Converting data frame 894 to binary.
+-603000  603000   403
+-600000  600000   401
+18 : Converting data frame 768 to binary.
+-603000  603000   403
+-600000  600000   401
+29 : Converting data frame 899 to binary.
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 799 to binary.
+-603000  603000   403
+-600000  600000   401
+23 : Converting data frame 773 to binary.
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 816 to binary.
+-603000  603000   403
+-600000  600000   401
+12 : Converting data frame 822 to binary.
+-603000  603000   403
+-600000  600000   401
+28 : Converting data frame 868 to binary.
+-603000  603000   403
+-600000  600000   401
+8 : Converting data frame 818 to binary.
+-603000  603000   403
+-600000  600000   401
+27 : Converting data frame 987 to binary.
+-603000  603000   403
+-600000  600000   401
+0 : Converting data frame 840 to binary.
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 781 to binary.
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 802 to binary.
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 753 to binary.
+-603000  603000   403
+-600000  600000   401
+25 : Converting data frame 955 to binary.
+-603000  603000   403
+-600000  600000   401
+26 : Converting data frame 956 to binary.
+-603000  603000   403
+-600000  600000   401
+4 : Converting data frame 784 to binary.
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 886 to binary.
+-603000  603000   403
+-600000  600000   401
+15 : Converting data frame 795 to binary.
+-603000  603000   403
+-600000  600000   401
+24 : Converting data frame 924 to binary.
+-603000  603000   403
+-600000  600000   401
+29 : Converting data frame 929 to binary.
+-603000  603000   403
+-600000  600000   401
+20 : Converting data frame 800 to binary.
+-603000  603000   403
+-600000  600000   401
+18 : Converting data frame 798 to binary.
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 829 to binary.
+-603000  603000   403
+-600000  600000   401
+23 : Converting data frame 803 to binary.
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 846 to binary.
+-603000  603000   403
+-600000  600000   401
+12 : Converting data frame 852 to binary.
+-603000  603000   403
+-600000  600000   401
+28 : Converting data frame 898 to binary.
+-603000  603000   403
+-600000  600000   401
+27 : Converting data frame 1017 to binary.
+-603000  603000   403
+-600000  600000   401
+8 : Converting data frame 848 to binary.
+-603000  603000   403
+-600000  600000   401
+25 : Converting data frame 985 to binary.
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 811 to binary.
+-603000  603000   403
+-600000  600000   401
+26 : Converting data frame 986 to binary.
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 832 to binary.
+-603000  603000   403
+-600000  600000   401
+0 : Converting data frame 870 to binary.
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 783 to binary.
+-603000  603000   403
+-600000  600000   401
+4 : Converting data frame 814 to binary.
+16 : Converting data frame 916 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+24 : Converting data frame 954 to binary.
+-603000  603000   403
+-600000  600000   401
+15 : Converting data frame 825 to binary.
+29 : Converting data frame 959 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+18 : Converting data frame 828 to binary.
+-603000  603000   403
+-600000  600000   401
+20 : Converting data frame 830 to binary.
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 859 to binary.
+-603000  603000   403
+-600000  600000   401
+23 : Converting data frame 833 to binary.
+-603000  603000   403
+-600000  600000   401
+12 : Converting data frame 882 to binary.
+28 : Converting data frame 928 to binary.
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 876 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+27 : Converting data frame 1047 to binary.
+-603000  603000   403
+-600000  600000   401
+8 : Converting data frame 878 to binary.
+-603000  603000   403
+-600000  600000   401
+25 : Converting data frame 1015 to binary.
+-603000  603000   403
+-600000  600000   401
+26 : Converting data frame 1016 to binary.
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 841 to binary.
+-603000  603000   403
+-600000  600000   401
+0 : Converting data frame 900 to binary.
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 862 to binary.
+-603000  603000   403
+-600000  600000   401
+4 : Converting data frame 844 to binary.
+24 : Converting data frame 984 to binary.
+-603000  603000   403
+-600000  600000   401
+29 : Converting data frame 989 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 946 to binary.
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 813 to binary.
+-603000  603000   403
+-600000  600000   401
+15 : Converting data frame 855 to binary.
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 889 to binary.
+-603000  603000   403
+-600000  600000   401
+18 : Converting data frame 858 to binary.
+-603000  603000   403
+-600000  600000   401
+23 : Converting data frame 863 to binary.
+-603000  603000   403
+-600000  600000   401
+20 : Converting data frame 860 to binary.
+-603000  603000   403
+-600000  600000   401
+28 : Converting data frame 958 to binary.
+-603000  603000   403
+-600000  600000   401
+12 : Converting data frame 912 to binary.
+-603000  603000   403
+-600000  600000   401
+27 : Converting data frame 1077 to binary.
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 906 to binary.
+-603000  603000   403
+-600000  600000   401
+8 : Converting data frame 908 to binary.
+-603000  603000   403
+-600000  600000   401
+26 : Converting data frame 1046 to binary.
+-603000  603000   403
+-600000  600000   401
+25 : Converting data frame 1045 to binary.
+-603000  603000   403
+-600000  600000   401
+24 : Converting data frame 1014 to binary.
+-603000  603000   403
+-600000  600000   401
+0 : Converting data frame 930 to binary.
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 892 to binary.
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 871 to binary.
+-603000  603000   403
+-600000  600000   401
+29 : Converting data frame 1019 to binary.
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 976 to binary.
+-603000  603000   403
+-600000  600000   401
+4 : Converting data frame 874 to binary.
+-603000  603000   403
+-600000  600000   401
+15 : Converting data frame 885 to binary.
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 843 to binary.
+-603000  603000   403
+-600000  600000   401
+23 : Converting data frame 893 to binary.
+-603000  603000   403
+-600000  600000   401
+18 : Converting data frame 888 to binary.
+-603000  603000   403
+-600000  600000   401
+28 : Converting data frame 988 to binary.
+-603000  603000   403
+-600000  600000   401
+20 : Converting data frame 890 to binary.
+-603000  603000   403
+-600000  600000   401
+27 : Converting data frame 1107 to binary.
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 919 to binary.
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 936 to binary.
+-603000  603000   403
+-600000  600000   401
+12 : Converting data frame 942 to binary.
+-603000  603000   403
+-600000  600000   401
+8 : Converting data frame 938 to binary.
+-603000  603000   403
+-600000  600000   401
+26 : Converting data frame 1076 to binary.
+-603000  603000   403
+-600000  600000   401
+25 : Converting data frame 1075 to binary.
+-603000  603000   403
+-600000  600000   401
+24 : Converting data frame 1044 to binary.
+-603000  603000   403
+-600000  600000   401
+0 : Converting data frame 960 to binary.
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 922 to binary.
+-603000  603000   403
+-600000  600000   401
+29 : Converting data frame 1049 to binary.
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 1006 to binary.
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 873 to binary.
+-603000  603000   403
+-600000  600000   401
+15 : Converting data frame 915 to binary.
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 901 to binary.
+-603000  603000   403
+-600000  600000   401
+4 : Converting data frame 904 to binary.
+-603000  603000   403
+-600000  600000   401
+18 : Converting data frame 918 to binary.
+-603000  603000   403
+-600000  600000   401
+27 : Converting data frame 1137 to binary.
+-603000  603000   403
+-600000  600000   401
+28 : Converting data frame 1018 to binary.
+-603000  603000   403
+-600000  600000   401
+23 : Converting data frame 923 to binary.
+-603000  603000   403
+-600000  600000   401
+20 : Converting data frame 920 to binary.
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 949 to binary.
+-603000  603000   403
+-600000  600000   401
+12 : Converting data frame 972 to binary.
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 966 to binary.
+-603000  603000   403
+-600000  600000   401
+8 : Converting data frame 968 to binary.
+26 : Converting data frame 1106 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+25 : Converting data frame 1105 to binary.
+-603000  603000   403
+-600000  600000   401
+24 : Converting data frame 1074 to binary.
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 952 to binary.
+-603000  603000   403
+-600000  600000   401
+29 : Converting data frame 1079 to binary.
+-603000  603000   403
+-600000  600000   401
+15 : Converting data frame 945 to binary.
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 903 to binary.
+-603000  603000   403
+-600000  600000   401
+0 : Converting data frame 990 to binary.
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 1036 to binary.
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 931 to binary.
+-603000  603000   403
+-600000  600000   401
+4 : Converting data frame 934 to binary.
+-603000  603000   403
+-600000  600000   401
+27 : Converting data frame 1167 to binary.
+-603000  603000   403
+-600000  600000   401
+18 : Converting data frame 948 to binary.
+-603000  603000   403
+-600000  600000   401
+28 : Converting data frame 1048 to binary.
+-603000  603000   403
+-600000  600000   401
+23 : Converting data frame 953 to binary.
+-603000  603000   403
+-600000  600000   401
+20 : Converting data frame 950 to binary.
+-603000  603000   403
+-600000  600000   401
+26 : Converting data frame 1136 to binary.
+-603000  603000   403
+-600000  600000   401
+12 : Converting data frame 1002 to binary.
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 996 to binary.
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 979 to binary.
+-603000  603000   403
+-600000  600000   401
+25 : Converting data frame 1135 to binary.
+-603000  603000   403
+-600000  600000   401
+8 : Converting data frame 998 to binary.
+-603000  603000   403
+-600000  600000   401
+24 : Converting data frame 1104 to binary.
+-603000  603000   403
+-600000  600000   401
+29 : Converting data frame 1109 to binary.
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 982 to binary.
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 933 to binary.
+-603000  603000   403
+-600000  600000   401
+15 : Converting data frame 975 to binary.
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 961 to binary.
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 1066 to binary.
+-603000  603000   403
+-600000  600000   401
+27 : Converting data frame 1197 to binary.
+-603000  603000   403
+-600000  600000   401
+0 : Converting data frame 1020 to binary.
+-603000  603000   403
+-600000  600000   401
+4 : Converting data frame 964 to binary.
+-603000  603000   403
+-600000  600000   401
+28 : Converting data frame 1078 to binary.
+-603000  603000   403
+-600000  600000   401
+26 : Converting data frame 1166 to binary.
+-603000  603000   403
+-600000  600000   401
+23 : Converting data frame 983 to binary.
+-603000  603000   403
+-600000  600000   401
+24 : Converting data frame 1134 to binary.
+-603000  603000   403
+-600000  600000   401
+18 : Converting data frame 978 to binary.
+-603000  603000   403
+-600000  600000   401
+20 : Converting data frame 980 to binary.
+12 : Converting data frame 1032 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 1009 to binary.
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 1026 to binary.
+-603000  603000   403
+-600000  600000   401
+8 : Converting data frame 1028 to binary.
+-603000  603000   403
+-600000  600000   401
+25 : Converting data frame 1165 to binary.
+-603000  603000   403
+-600000  600000   401
+29 : Converting data frame 1139 to binary.
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 1012 to binary.
+-603000  603000   403
+-600000  600000   401
+27 : Converting data frame 1227 to binary.
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 963 to binary.
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 991 to binary.
+-603000  603000   403
+-600000  600000   401
+15 : Converting data frame 1005 to binary.
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 1096 to binary.
+-603000  603000   403
+-600000  600000   401
+0 : Converting data frame 1050 to binary.
+-603000  603000   403
+-600000  600000   401
+26 : Converting data frame 1196 to binary.
+-603000  603000   403
+-600000  600000   401
+28 : Converting data frame 1108 to binary.
+-603000  603000   403
+-600000  600000   401
+4 : Converting data frame 994 to binary.
+-603000  603000   403
+-600000  600000   401
+24 : Converting data frame 1164 to binary.
+-603000  603000   403
+-600000  600000   401
+18 : Converting data frame 1008 to binary.
+-603000  603000   403
+-600000  600000   401
+20 : Converting data frame 1010 to binary.
+-603000  603000   403
+-600000  600000   401
+29 : Converting data frame 1169 to binary.
+-603000  603000   403
+-600000  600000   401
+12 : Converting data frame 1062 to binary.
+-603000  603000   403
+-600000  600000   401
+23 : Converting data frame 1013 to binary.
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 1056 to binary.
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 1039 to binary.
+25 : Converting data frame 1195 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+8 : Converting data frame 1058 to binary.
+-603000  603000   403
+-600000  600000   401
+27 : Converting data frame 1257 to binary.
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 1042 to binary.
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 1021 to binary.
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 993 to binary.
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 1126 to binary.
+-603000  603000   403
+-600000  600000   401
+15 : Converting data frame 1035 to binary.
+-603000  603000   403
+-600000  600000   401
+0 : Converting data frame 1080 to binary.
+-603000  603000   403
+-600000  600000   401
+26 : Converting data frame 1226 to binary.
+-603000  603000   403
+-600000  600000   401
+28 : Converting data frame 1138 to binary.
+-603000  603000   403
+-600000  600000   401
+4 : Converting data frame 1024 to binary.
+-603000  603000   403
+-600000  600000   401
+24 : Converting data frame 1194 to binary.
+-603000  603000   403
+-600000  600000   401
+29 : Converting data frame 1199 to binary.
+-603000  603000   403
+-600000  600000   401
+12 : Converting data frame 1092 to binary.
+-603000  603000   403
+-600000  600000   401
+25 : Converting data frame 1225 to binary.
+-603000  603000   403
+-600000  600000   401
+20 : Converting data frame 1040 to binary.
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 1086 to binary.
+-603000  603000   403
+-600000  600000   401
+18 : Converting data frame 1038 to binary.
+-603000  603000   403
+-600000  600000   401
+8 : Converting data frame 1088 to binary.
+-603000  603000   403
+-600000  600000   401
+23 : Converting data frame 1043 to binary.
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 1069 to binary.
+-603000  603000   403
+-600000  600000   401
+27 : Converting data frame 1287 to binary.
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 1023 to binary.
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 1051 to binary.
+-603000  603000   403
+-600000  600000   401
+15 : Converting data frame 1065 to binary.
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 1156 to binary.
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 1072 to binary.
+-603000  603000   403
+-600000  600000   401
+26 : Converting data frame 1256 to binary.
+-603000  603000   403
+-600000  600000   401
+28 : Converting data frame 1168 to binary.
+-603000  603000   403
+-600000  600000   401
+0 : Converting data frame 1110 to binary.
+-603000  603000   403
+-600000  600000   401
+24 : Converting data frame 1224 to binary.
+-603000  603000   403
+-600000  600000   401
+4 : Converting data frame 1054 to binary.
+-603000  603000   403
+-600000  600000   401
+29 : Converting data frame 1229 to binary.
+-603000  603000   403
+-600000  600000   401
+25 : Converting data frame 1255 to binary.
+-603000  603000   403
+-600000  600000   401
+12 : Converting data frame 1122 to binary.
+-603000  603000   403
+-600000  600000   401
+20 : Converting data frame 1070 to binary.
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 1116 to binary.
+-603000  603000   403
+-600000  600000   401
+23 : Converting data frame 1073 to binary.
+-603000  603000   403
+-600000  600000   401
+8 : Converting data frame 1118 to binary.
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 1099 to binary.
+-603000  603000   403
+-600000  600000   401
+18 : Converting data frame 1068 to binary.
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 1053 to binary.
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 1081 to binary.
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 1186 to binary.
+-603000  603000   403
+-600000  600000   401
+15 : Converting data frame 1095 to binary.
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 1102 to binary.
+-603000  603000   403
+-600000  600000   401
+26 : Converting data frame 1286 to binary.
+-603000  603000   403
+-600000  600000   401
+28 : Converting data frame 1198 to binary.
+-603000  603000   403
+-600000  600000   401
+24 : Converting data frame 1254 to binary.
+-603000  603000   403
+-600000  600000   401
+0 : Converting data frame 1140 to binary.
+-603000  603000   403
+-600000  600000   401
+29 : Converting data frame 1259 to binary.
+-603000  603000   403
+-600000  600000   401
+4 : Converting data frame 1084 to binary.
+-603000  603000   403
+-600000  600000   401
+25 : Converting data frame 1285 to binary.
+-603000  603000   403
+-600000  600000   401
+12 : Converting data frame 1152 to binary.
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 1146 to binary.
+-603000  603000   403
+-600000  600000   401
+20 : Converting data frame 1100 to binary.
+-603000  603000   403
+-600000  600000   401
+23 : Converting data frame 1103 to binary.
+-603000  603000   403
+-600000  600000   401
+8 : Converting data frame 1148 to binary.
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 1129 to binary.
+-603000  603000   403
+-600000  600000   401
+18 : Converting data frame 1098 to binary.
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 1216 to binary.
+-603000  603000   403
+-600000  600000   401
+28 : Converting data frame 1228 to binary.
+-603000  603000   403
+-600000  600000   401
+15 : Converting data frame 1125 to binary.
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 1132 to binary.
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 1111 to binary.
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 1083 to binary.
+-603000  603000   403
+-600000  600000   401
+24 : Converting data frame 1284 to binary.
+-603000  603000   403
+-600000  600000   401
+0 : Converting data frame 1170 to binary.
+29 : Converting data frame 1289 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+4 : Converting data frame 1114 to binary.
+-603000  603000   403
+-600000  600000   401
+12 : Converting data frame 1182 to binary.
+-603000  603000   403
+-600000  600000   401
+23 : Converting data frame 1133 to binary.
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 1176 to binary.
+-603000  603000   403
+-600000  600000   401
+20 : Converting data frame 1130 to binary.
+-603000  603000   403
+-600000  600000   401
+8 : Converting data frame 1178 to binary.
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 1159 to binary.
+-603000  603000   403
+-600000  600000   401
+18 : Converting data frame 1128 to binary.
+-603000  603000   403
+-600000  600000   401
+28 : Converting data frame 1258 to binary.
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 1246 to binary.
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 1162 to binary.
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 1113 to binary.
+15 : Converting data frame 1155 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 1141 to binary.
+-603000  603000   403
+-600000  600000   401
+0 : Converting data frame 1200 to binary.
+-603000  603000   403
+-600000  600000   401
+4 : Converting data frame 1144 to binary.
+-603000  603000   403
+-600000  600000   401
+12 : Converting data frame 1212 to binary.
+-603000  603000   403
+-600000  600000   401
+20 : Converting data frame 1160 to binary.
+8 : Converting data frame 1208 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 1206 to binary.
+-603000  603000   403
+-600000  600000   401
+23 : Converting data frame 1163 to binary.
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 1189 to binary.
+-603000  603000   403
+-600000  600000   401
+28 : Converting data frame 1288 to binary.
+-603000  603000   403
+-600000  600000   401
+18 : Converting data frame 1158 to binary.
+-603000  603000   403
+-600000  600000   401
+16 : Converting data frame 1276 to binary.
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 1192 to binary.
+-603000  603000   403
+-600000  600000   401
+15 : Converting data frame 1185 to binary.
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 1171 to binary.
+-603000  603000   403
+-600000  600000   401
+0 : Converting data frame 1230 to binary.
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 1143 to binary.
+4 : Converting data frame 1174 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+12 : Converting data frame 1242 to binary.
+-603000  603000   403
+-600000  600000   401
+23 : Converting data frame 1193 to binary.
+-603000  603000   403
+-600000  600000   401
+20 : Converting data frame 1190 to binary.
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 1219 to binary.
+-603000  603000   403
+-600000  600000   401
+8 : Converting data frame 1238 to binary.
+-603000  603000   403
+-600000  600000   401
+18 : Converting data frame 1188 to binary.
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 1236 to binary.
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 1222 to binary.
+-603000  603000   403
+-600000  600000   401
+15 : Converting data frame 1215 to binary.
+-603000  603000   403
+-600000  600000   401
+0 : Converting data frame 1260 to binary.
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 1173 to binary.
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 1201 to binary.
+4 : Converting data frame 1204 to binary.
+-603000  603000   403
+-600000  600000   401
+12 : Converting data frame 1272 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+20 : Converting data frame 1220 to binary.
+-603000  603000   403
+-600000  600000   401
+8 : Converting data frame 1268 to binary.
+-603000  603000   403
+-600000  600000   401
+18 : Converting data frame 1218 to binary.
+-603000  603000   403
+-600000  600000   401
+6 : Converting data frame 1266 to binary.
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 1249 to binary.
+-603000  603000   403
+-600000  600000   401
+23 : Converting data frame 1223 to binary.
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 1252 to binary.
+-603000  603000   403
+-600000  600000   401
+15 : Converting data frame 1245 to binary.
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 1203 to binary.
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 1231 to binary.
+-603000  603000   403
+-600000  600000   401
+0 : Converting data frame 1290 to binary.
+-603000  603000   403
+-600000  600000   401
+4 : Converting data frame 1234 to binary.
+-603000  603000   403
+-600000  600000   401
+20 : Converting data frame 1250 to binary.
+-603000  603000   403
+-600000  600000   401
+18 : Converting data frame 1248 to binary.
+-603000  603000   403
+-600000  600000   401
+19 : Converting data frame 1279 to binary.
+-603000  603000   403
+-600000  600000   401
+23 : Converting data frame 1253 to binary.
+-603000  603000   403
+-600000  600000   401
+15 : Converting data frame 1275 to binary.
+-603000  603000   403
+-600000  600000   401
+22 : Converting data frame 1282 to binary.
+-603000  603000   403
+-600000  600000   401
+1 : Converting data frame 1261 to binary.
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 1233 to binary.
+-603000  603000   403
+-600000  600000   401
+4 : Converting data frame 1264 to binary.
+-603000  603000   403
+-600000  600000   401
+20 : Converting data frame 1280 to binary.
+-603000  603000   403
+-600000  600000   401
+18 : Converting data frame 1278 to binary.
+-603000  603000   403
+-600000  600000   401
+23 : Converting data frame 1283 to binary.
+-603000  603000   403
+-600000  600000   401
+3 : Converting data frame 1263 to binary.
+-603000  603000   403
+-600000  600000   401
+2 : Converting data frame 332 to binary.
+-603000  603000   403
+-600000  600000   401
+17 : Converting data frame 347 to binary.
+-603000  603000   403
+-600000  600000   401
+5 : Converting data frame 305 to binary.
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 311 to binary.
+-603000  603000   403
+-600000  600000   401
+21 : Converting data frame 351 to binary.
+-603000  603000   403
+-600000  600000   401
+10 : Converting data frame 310 to binary.
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 343 to binary.
+14 : Converting data frame 284 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+9 : Converting data frame 339 to binary.
+7 : Converting data frame 337 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+10 : Converting data frame 340 to binary.
+-603000  603000   403
+-600000  600000   401
+5 : Converting data frame 335 to binary.
+2 : Converting data frame 362 to binary.
+-603000  603000   403
+-600000  600000   401
+21 : Converting data frame 381 to binary.
+14 : Converting data frame 314 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 373 to binary.
+-603000  603000   403
+-600000  600000   401
+17 : Converting data frame 377 to binary.
+-603000  603000   403
+-600000  600000   401
+9 : Converting data frame 369 to binary.
+-603000  603000   403
+-600000  600000   401
+7 : Converting data frame 367 to binary.
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 341 to binary.
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 403 to binary.
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 371 to binary.
+-603000  603000   403
+-600000  600000   401
+21 : Converting data frame 411 to binary.
+-603000  603000   403
+-600000  600000   401
+5 : Converting data frame 365 to binary.
+-603000  603000   403
+-600000  600000   401
+17 : Converting data frame 407 to binary.
+7 : Converting data frame 397 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+2 : Converting data frame 392 to binary.
+-603000  603000   403
+-600000  600000   401
+14 : Converting data frame 344 to binary.
+10 : Converting data frame 370 to binary.
+-603000  603000   403
+-600000  600000   401
+9 : Converting data frame 399 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 433 to binary.
+-603000  603000   403
+-600000  600000   401
+21 : Converting data frame 441 to binary.
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 401 to binary.
+-603000  603000   403
+-600000  600000   401
+17 : Converting data frame 437 to binary.
+-603000  603000   403
+-600000  600000   401
+2 : Converting data frame 422 to binary.
+-603000  603000   403
+-600000  600000   401
+7 : Converting data frame 427 to binary.
+-603000  603000   403
+-600000  600000   401
+14 : Converting data frame 374 to binary.
+-603000  603000   403
+-600000  600000   401
+5 : Converting data frame 395 to binary.
+-603000  603000   403
+-600000  600000   401
+10 : Converting data frame 400 to binary.
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 463 to binary.
+-603000  603000   403
+-600000  600000   401
+9 : Converting data frame 429 to binary.
+21 : Converting data frame 471 to binary.
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 431 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+2 : Converting data frame 452 to binary.
+-603000  603000   403
+-600000  600000   401
+17 : Converting data frame 467 to binary.
+-603000  603000   403
+-600000  600000   401
+10 : Converting data frame 430 to binary.
+14 : Converting data frame 404 to binary.
+-603000  603000   403
+-600000  600000   401
+21 : Converting data frame 501 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 493 to binary.
+-603000  603000   403
+-600000  600000   401
+5 : Converting data frame 425 to binary.
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 461 to binary.
+-603000  603000   403
+-600000  600000   401
+9 : Converting data frame 459 to binary.
+17 : Converting data frame 497 to binary.
+-603000  603000   403
+-600000  600000   401
+21 : Converting data frame 531 to binary.
+-603000  603000   403
+-600000  600000   401
+2 : Converting data frame 482 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+7 : Converting data frame 457 to binary.
+-603000  603000   403
+-600000  600000   401
+14 : Converting data frame 434 to binary.
+-603000  603000   403
+-600000  600000   401
+10 : Converting data frame 460 to binary.
+21 : Converting data frame 561 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 491 to binary.
+5 : Converting data frame 455 to binary.
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 523 to binary.
+-603000  603000   403
+-600000  600000   401
+17 : Converting data frame 527 to binary.
+-603000  603000   403
+-600000  600000   401
+21 : Converting data frame 591 to binary.
+7 : Converting data frame 487 to binary.
+-603000  603000   403
+-600000  600000   401
+2 : Converting data frame 512 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+9 : Converting data frame 489 to binary.
+-603000  603000   403
+-600000  600000   401
+14 : Converting data frame 464 to binary.
+-603000  603000   403
+-600000  600000   401
+5 : Converting data frame 485 to binary.
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 553 to binary.
+-603000  603000   403
+-600000  600000   401
+21 : Converting data frame 621 to binary.
+-603000  603000   403
+-600000  600000   401
+2 : Converting data frame 542 to binary.
+-603000  603000   403
+-600000  600000   401
+10 : Converting data frame 490 to binary.
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 521 to binary.
+9 : Converting data frame 519 to binary.
+-603000  603000   403
+-600000  600000   401
+7 : Converting data frame 517 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+5 : Converting data frame 515 to binary.
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 583 to binary.
+-603000  603000   403
+-600000  600000   401
+2 : Converting data frame 572 to binary.
+-603000  603000   403
+-600000  600000   401
+10 : Converting data frame 520 to binary.
+-603000  603000   403
+-600000  600000   401
+17 : Converting data frame 557 to binary.
+-603000  603000   403
+-600000  600000   401
+14 : Converting data frame 494 to binary.
+-603000  603000   403
+-600000  600000   401
+5 : Converting data frame 545 to binary.
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 551 to binary.
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 613 to binary.
+-603000  603000   403
+-600000  600000   401
+7 : Converting data frame 547 to binary.
+-603000  603000   403
+-600000  600000   401
+9 : Converting data frame 549 to binary.
+-603000  603000   403
+-600000  600000   401
+2 : Converting data frame 602 to binary.
+-603000  603000   403
+-600000  600000   401
+21 : Converting data frame 651 to binary.
+-603000  603000   403
+-600000  600000   401
+14 : Converting data frame 524 to binary.
+-603000  603000   403
+-600000  600000   401
+10 : Converting data frame 550 to binary.
+-603000  603000   403
+-600000  600000   401
+17 : Converting data frame 587 to binary.
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 581 to binary.
+-603000  603000   403
+-600000  600000   401
+5 : Converting data frame 575 to binary.
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 643 to binary.
+-603000  603000   403
+-600000  600000   401
+9 : Converting data frame 579 to binary.
+-603000  603000   403
+-600000  600000   401
+7 : Converting data frame 577 to binary.
+-603000  603000   403
+-600000  600000   401
+21 : Converting data frame 681 to binary.
+-603000  603000   403
+-600000  600000   401
+2 : Converting data frame 632 to binary.
+-603000  603000   403
+-600000  600000   401
+10 : Converting data frame 580 to binary.
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 673 to binary.
+-603000  603000   403
+-600000  600000   401
+5 : Converting data frame 605 to binary.
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 611 to binary.
+-603000  603000   403
+-600000  600000   401
+14 : Converting data frame 554 to binary.
+-603000  603000   403
+-600000  600000   401
+17 : Converting data frame 617 to binary.
+-603000  603000   403
+-600000  600000   401
+9 : Converting data frame 609 to binary.
+-603000  603000   403
+-600000  600000   401
+21 : Converting data frame 711 to binary.
+-603000  603000   403
+-600000  600000   401
+7 : Converting data frame 607 to binary.
+-603000  603000   403
+-600000  600000   401
+2 : Converting data frame 662 to binary.
+-603000  603000   403
+-600000  600000   401
+10 : Converting data frame 610 to binary.
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 641 to binary.
+-603000  603000   403
+-600000  600000   401
+5 : Converting data frame 635 to binary.
+-603000  603000   403
+-600000  600000   401
+9 : Converting data frame 639 to binary.
+-603000  603000   403
+-600000  600000   401
+17 : Converting data frame 647 to binary.
+-603000  603000   403
+-600000  600000   401
+21 : Converting data frame 741 to binary.
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 703 to binary.
+-603000  603000   403
+-600000  600000   401
+7 : Converting data frame 637 to binary.
+-603000  603000   403
+-600000  600000   401
+2 : Converting data frame 692 to binary.
+-603000  603000   403
+-600000  600000   401
+14 : Converting data frame 584 to binary.
+-603000  603000   403
+-600000  600000   401
+10 : Converting data frame 640 to binary.
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 671 to binary.
+-603000  603000   403
+-600000  600000   401
+5 : Converting data frame 665 to binary.
+-603000  603000   403
+-600000  600000   401
+17 : Converting data frame 677 to binary.
+-603000  603000   403
+-600000  600000   401
+9 : Converting data frame 669 to binary.
+-603000  603000   403
+-600000  600000   401
+21 : Converting data frame 771 to binary.
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 733 to binary.
+-603000  603000   403
+-600000  600000   401
+7 : Converting data frame 667 to binary.
+-603000  603000   403
+-600000  600000   401
+2 : Converting data frame 722 to binary.
+-603000  603000   403
+-600000  600000   401
+14 : Converting data frame 614 to binary.
+-603000  603000   403
+-600000  600000   401
+10 : Converting data frame 670 to binary.
+5 : Converting data frame 695 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 701 to binary.
+-603000  603000   403
+-600000  600000   401
+17 : Converting data frame 707 to binary.
+-603000  603000   403
+-600000  600000   401
+9 : Converting data frame 699 to binary.
+-603000  603000   403
+-600000  600000   401
+21 : Converting data frame 801 to binary.
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 763 to binary.
+-603000  603000   403
+-600000  600000   401
+2 : Converting data frame 752 to binary.
+-603000  603000   403
+-600000  600000   401
+7 : Converting data frame 697 to binary.
+-603000  603000   403
+-600000  600000   401
+14 : Converting data frame 644 to binary.
+-603000  603000   403
+-600000  600000   401
+10 : Converting data frame 700 to binary.
+-603000  603000   403
+-600000  600000   401
+17 : Converting data frame 737 to binary.
+-603000  603000   403
+-600000  600000   401
+5 : Converting data frame 725 to binary.
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 731 to binary.
+-603000  603000   403
+-600000  600000   401
+21 : Converting data frame 831 to binary.
+-603000  603000   403
+-600000  600000   401
+9 : Converting data frame 729 to binary.
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 793 to binary.
+-603000  603000   403
+-600000  600000   401
+14 : Converting data frame 674 to binary.
+-603000  603000   403
+-600000  600000   401
+7 : Converting data frame 727 to binary.
+-603000  603000   403
+-600000  600000   401
+17 : Converting data frame 767 to binary.
+-603000  603000   403
+-600000  600000   401
+10 : Converting data frame 730 to binary.
+-603000  603000   403
+-600000  600000   401
+5 : Converting data frame 755 to binary.
+-603000  603000   403
+-600000  600000   401
+2 : Converting data frame 782 to binary.
+-603000  603000   403
+-600000  600000   401
+21 : Converting data frame 861 to binary.
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 761 to binary.
+-603000  603000   403
+-600000  600000   401
+9 : Converting data frame 759 to binary.
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 823 to binary.
+-603000  603000   403
+-600000  600000   401
+14 : Converting data frame 704 to binary.
+-603000  603000   403
+-600000  600000   401
+7 : Converting data frame 757 to binary.
+-603000  603000   403
+-600000  600000   401
+10 : Converting data frame 760 to binary.
+17 : Converting data frame 797 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+2 : Converting data frame 812 to binary.
+-603000  603000   403
+-600000  600000   401
+21 : Converting data frame 891 to binary.
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 791 to binary.
+-603000  603000   403
+-600000  600000   401
+9 : Converting data frame 789 to binary.
+5 : Converting data frame 785 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+14 : Converting data frame 734 to binary.
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 853 to binary.
+-603000  603000   403
+-600000  600000   401
+10 : Converting data frame 790 to binary.
+-603000  603000   403
+-600000  600000   401
+5 : Converting data frame 815 to binary.
+2 : Converting data frame 842 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 883 to binary.
+14 : Converting data frame 764 to binary.
+17 : Converting data frame 827 to binary.
+9 : Converting data frame 819 to binary.
+7 : Converting data frame 787 to binary.
+-603000  603000   403
+-600000  600000   401
+21 : Converting data frame 921 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 821 to binary.
+-603000  603000   403
+-600000  600000   401
+10 : Converting data frame 820 to binary.
+-603000  603000   403
+-600000  600000   401
+14 : Converting data frame 794 to binary.
+-603000  603000   403
+-600000  600000   401
+21 : Converting data frame 951 to binary.
+-603000  603000   403
+-600000  600000   401
+9 : Converting data frame 849 to binary.
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 851 to binary.
+-603000  603000   403
+-600000  600000   401
+2 : Converting data frame 872 to binary.
+-603000  603000   403
+-600000  600000   401
+5 : Converting data frame 845 to binary.
+-603000  603000   403
+-600000  600000   401
+2 : Converting data frame 902 to binary.
+-603000  603000   403
+-600000  600000   401
+21 : Converting data frame 981 to binary.
+-603000  603000   403
+-600000  600000   401
+10 : Converting data frame 850 to binary.
+-603000  603000   403
+-600000  600000   401
+9 : Converting data frame 879 to binary.
+-603000  603000   403
+-600000  600000   401
+5 : Converting data frame 875 to binary.
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 913 to binary.
+-603000  603000   403
+-600000  600000   401
+17 : Converting data frame 857 to binary.
+-603000  603000   403
+-600000  600000   401
+7 : Converting data frame 817 to binary.
+-603000  603000   403
+-600000  600000   401
+14 : Converting data frame 824 to binary.
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 881 to binary.
+-603000  603000   403
+-600000  600000   401
+2 : Converting data frame 932 to binary.
+-603000  603000   403
+-600000  600000   401
+10 : Converting data frame 880 to binary.
+-603000  603000   403
+-600000  600000   401
+21 : Converting data frame 1011 to binary.
+-603000  603000   403
+-600000  600000   401
+9 : Converting data frame 909 to binary.
+-603000  603000   403
+-600000  600000   401
+5 : Converting data frame 905 to binary.
+-603000  603000   403
+-600000  600000   401
+14 : Converting data frame 854 to binary.
+-603000  603000   403
+-600000  600000   401
+7 : Converting data frame 847 to binary.
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 943 to binary.
+-603000  603000   403
+-600000  600000   401
+17 : Converting data frame 887 to binary.
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 911 to binary.
+-603000  603000   403
+-600000  600000   401
+2 : Converting data frame 962 to binary.
+-603000  603000   403
+-600000  600000   401
+21 : Converting data frame 1041 to binary.
+-603000  603000   403
+-600000  600000   401
+10 : Converting data frame 910 to binary.
+-603000  603000   403
+-600000  600000   401
+9 : Converting data frame 939 to binary.
+-603000  603000   403
+-600000  600000   401
+5 : Converting data frame 935 to binary.
+-603000  603000   403
+-600000  600000   401
+7 : Converting data frame 877 to binary.
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 973 to binary.
+-603000  603000   403
+-600000  600000   401
+14 : Converting data frame 884 to binary.
+-603000  603000   403
+-600000  600000   401
+17 : Converting data frame 917 to binary.
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 941 to binary.
+-603000  603000   403
+-600000  600000   401
+2 : Converting data frame 992 to binary.
+-603000  603000   403
+-600000  600000   401
+21 : Converting data frame 1071 to binary.
+-603000  603000   403
+-600000  600000   401
+10 : Converting data frame 940 to binary.
+-603000  603000   403
+-600000  600000   401
+9 : Converting data frame 969 to binary.
+5 : Converting data frame 965 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 1003 to binary.
+-603000  603000   403
+-600000  600000   401
+17 : Converting data frame 947 to binary.
+11 : Converting data frame 971 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+14 : Converting data frame 914 to binary.
+-603000  603000   403
+-600000  600000   401
+7 : Converting data frame 907 to binary.
+-603000  603000   403
+-600000  600000   401
+2 : Converting data frame 1022 to binary.
+-603000  603000   403
+-600000  600000   401
+21 : Converting data frame 1101 to binary.
+-603000  603000   403
+-600000  600000   401
+10 : Converting data frame 970 to binary.
+-603000  603000   403
+-600000  600000   401
+5 : Converting data frame 995 to binary.
+-603000  603000   403
+-600000  600000   401
+9 : Converting data frame 999 to binary.
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 1033 to binary.
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 1001 to binary.
+-603000  603000   403
+-600000  600000   401
+17 : Converting data frame 977 to binary.
+-603000  603000   403
+-600000  600000   401
+7 : Converting data frame 937 to binary.
+-603000  603000   403
+-600000  600000   401
+14 : Converting data frame 944 to binary.
+-603000  603000   403
+-600000  600000   401
+2 : Converting data frame 1052 to binary.
+-603000  603000   403
+-600000  600000   401
+21 : Converting data frame 1131 to binary.
+-603000  603000   403
+-600000  600000   401
+5 : Converting data frame 1025 to binary.
+-603000  603000   403
+-600000  600000   401
+10 : Converting data frame 1000 to binary.
+-603000  603000   403
+-600000  600000   401
+9 : Converting data frame 1029 to binary.
+-603000  603000   403
+-600000  600000   401
+17 : Converting data frame 1007 to binary.
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 1031 to binary.
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 1063 to binary.
+-603000  603000   403
+-600000  600000   401
+7 : Converting data frame 967 to binary.
+-603000  603000   403
+-600000  600000   401
+14 : Converting data frame 974 to binary.
+-603000  603000   403
+-600000  600000   401
+2 : Converting data frame 1082 to binary.
+-603000  603000   403
+-600000  600000   401
+21 : Converting data frame 1161 to binary.
+-603000  603000   403
+-600000  600000   401
+5 : Converting data frame 1055 to binary.
+-603000  603000   403
+-600000  600000   401
+9 : Converting data frame 1059 to binary.
+10 : Converting data frame 1030 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 1093 to binary.
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 1061 to binary.
+-603000  603000   403
+-600000  600000   401
+17 : Converting data frame 1037 to binary.
+-603000  603000   403
+-600000  600000   401
+14 : Converting data frame 1004 to binary.
+-603000  603000   403
+-600000  600000   401
+7 : Converting data frame 997 to binary.
+-603000  603000   403
+-600000  600000   401
+21 : Converting data frame 1191 to binary.
+-603000  603000   403
+-600000  600000   401
+5 : Converting data frame 1085 to binary.
+-603000  603000   403
+-600000  600000   401
+2 : Converting data frame 1112 to binary.
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 1091 to binary.
+-603000  603000   403
+-600000  600000   401
+9 : Converting data frame 1089 to binary.
+-603000  603000   403
+-600000  600000   401
+17 : Converting data frame 1067 to binary.
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 1123 to binary.
+-603000  603000   403
+-600000  600000   401
+10 : Converting data frame 1060 to binary.
+-603000  603000   403
+-600000  600000   401
+7 : Converting data frame 1027 to binary.
+-603000  603000   403
+-600000  600000   401
+5 : Converting data frame 1115 to binary.
+-603000  603000   403
+-600000  600000   401
+14 : Converting data frame 1034 to binary.
+21 : Converting data frame 1221 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+2 : Converting data frame 1142 to binary.
+-603000  603000   403
+-600000  600000   401
+17 : Converting data frame 1097 to binary.
+-603000  603000   403
+-600000  600000   401
+9 : Converting data frame 1119 to binary.
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 1121 to binary.
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 1153 to binary.
+-603000  603000   403
+-600000  600000   401
+10 : Converting data frame 1090 to binary.
+-603000  603000   403
+-600000  600000   401
+14 : Converting data frame 1064 to binary.
+-603000  603000   403
+-600000  600000   401
+7 : Converting data frame 1057 to binary.
+-603000  603000   403
+-600000  600000   401
+9 : Converting data frame 1149 to binary.
+-603000  603000   403
+-600000  600000   401
+5 : Converting data frame 1145 to binary.
+-603000  603000   403
+-600000  600000   401
+2 : Converting data frame 1172 to binary.
+-603000  603000   403
+-600000  600000   401
+21 : Converting data frame 1251 to binary.
+17 : Converting data frame 1127 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 1151 to binary.
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 1183 to binary.
+-603000  603000   403
+-600000  600000   401
+14 : Converting data frame 1094 to binary.
+-603000  603000   403
+-600000  600000   401
+10 : Converting data frame 1120 to binary.
+-603000  603000   403
+-600000  600000   401
+7 : Converting data frame 1087 to binary.
+-603000  603000   403
+-600000  600000   401
+5 : Converting data frame 1175 to binary.
+-603000  603000   403
+-600000  600000   401
+2 : Converting data frame 1202 to binary.
+-603000  603000   403
+-600000  600000   401
+21 : Converting data frame 1281 to binary.
+-603000  603000   403
+-600000  600000   401
+9 : Converting data frame 1179 to binary.
+-603000  603000   403
+-600000  600000   401
+17 : Converting data frame 1157 to binary.
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 1213 to binary.
+-603000  603000   403
+-600000  600000   401
+14 : Converting data frame 1124 to binary.
+-603000  603000   403
+-600000  600000   401
+10 : Converting data frame 1150 to binary.
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 1181 to binary.
+-603000  603000   403
+-600000  600000   401
+7 : Converting data frame 1117 to binary.
+-603000  603000   403
+-600000  600000   401
+5 : Converting data frame 1205 to binary.
+-603000  603000   403
+-600000  600000   401
+2 : Converting data frame 1232 to binary.
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 1243 to binary.
+-603000  603000   403
+-600000  600000   401
+17 : Converting data frame 1187 to binary.
+-603000  603000   403
+-600000  600000   401
+14 : Converting data frame 1154 to binary.
+-603000  603000   403
+-600000  600000   401
+9 : Converting data frame 1209 to binary.
+-603000  603000   403
+-600000  600000   401
+5 : Converting data frame 1235 to binary.
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 1211 to binary.
+-603000  603000   403
+-600000  600000   401
+2 : Converting data frame 1262 to binary.
+-603000  603000   403
+-600000  600000   401
+7 : Converting data frame 1147 to binary.
+-603000  603000   403
+-600000  600000   401
+13 : Converting data frame 1273 to binary.
+10 : Converting data frame 1180 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+17 : Converting data frame 1217 to binary.
+-603000  603000   403
+-600000  600000   401
+5 : Converting data frame 1265 to binary.
+9 : Converting data frame 1239 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+14 : Converting data frame 1184 to binary.
+-603000  603000   403
+-600000  600000   401
+7 : Converting data frame 1177 to binary.
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 1241 to binary.
+-603000  603000   403
+-600000  600000   401
+17 : Converting data frame 1247 to binary.
+10 : Converting data frame 1210 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+14 : Converting data frame 1214 to binary.
+-603000  603000   403
+-600000  600000   401
+7 : Converting data frame 1207 to binary.
+10 : Converting data frame 1240 to binary.
+-603000  603000   403
+-600000  600000   401
+-603000  603000   403
+-600000  600000   401
+11 : Converting data frame 1271 to binary.
+-603000  603000   403
+-600000  600000   401
+17 : Converting data frame 1277 to binary.
+-603000  603000   403
+-600000  600000   401
+9 : Converting data frame 1269 to binary.
+-603000  603000   403
+-600000  600000   401
+10 : Converting data frame 1270 to binary.
+-603000  603000   403
+-600000  600000   401
+14 : Converting data frame 1244 to binary.
+-603000  603000   403
+-600000  600000   401
+7 : Converting data frame 1237 to binary.
+-603000  603000   403
+-600000  600000   401
+14 : Converting data frame 1274 to binary.
+-603000  603000   403
+-600000  600000   401
+7 : Converting data frame 1267 to binary.
+-603000  603000   403
+-600000  600000   401
+Running with MPI on 30 processes.
+Dimensions = 2
+NumJobs = 84335321
+NumPackets = 29
+Dispatched packet 1 to process 1
+Dispatched packet 2 to process 2
+Dispatched packet 3 to process 3
+Dispatched packet 4 to process 4
+Dispatched packet 5 to process 5
+Dispatched packet 6 to process 6
+Dispatched packet 7 to process 7
+Dispatched packet 8 to process 8
+Dispatched packet 9 to process 9
+Dispatched packet 10 to process 10
+Dispatched packet 11 to process 11
+Dispatched packet 12 to process 12
+Dispatched packet 13 to process 13
+Dispatched packet 14 to process 14
+Dispatched packet 15 to process 15
+Dispatched packet 16 to process 16
+Dispatched packet 17 to process 17
+Dispatched packet 18 to process 18
+Dispatched packet 19 to process 19
+Dispatched packet 20 to process 20
+Dispatched packet 21 to process 21
+Dispatched packet 22 to process 22
+Dispatched packet 23 to process 23
+Dispatched packet 24 to process 24
+Dispatched packet 25 to process 25
+Dispatched packet 26 to process 26
+Dispatched packet 27 to process 27
+Dispatched packet 28 to process 28
+Dispatched packet 29 to process 29
+blocksize = 161603
+blocksize = 161603
+blocksize = 161603
+blocksize = 161603
+blocksize = 161603
+blocksize = 161603
+blocksize = 161603
+blocksize = 161603
+blocksize = 161603
+blocksize = 161603
+blocksize = 161603
+blocksize = 161603
+blocksize = 161603
+blocksize = 161603
+blocksize = 161603
+blocksize = 161603
+blocksize = 161603
+blocksize = 161603
+blocksize = 161603
+blocksize = 161603
+blocksize = 161603
+blocksize = 161603
+blocksize = 161603
+blocksize = 161603
+blocksize = 161603
+blocksize = 161603
+blocksize = 161603
+blocksize = 161603
+blocksize = 161603
+1 Packet 18 on process 19 is finished: 	799 s
+2 Packet 15 on process 16 is finished: 	807 s
+3 Packet 16 on process 17 is finished: 	814 s
+4 Packet 12 on process 13 is finished: 	855 s
+5 Packet 19 on process 20 is finished: 	869 s
+6 Packet 7 on process 8 is finished: 	939 s
+7 Packet 24 on process 25 is finished: 	936 s
+8 Packet 23 on process 24 is finished: 	945 s
+9 Packet 17 on process 18 is finished: 	960 s
+10 Packet 25 on process 26 is finished: 	964 s
+11 Packet 9 on process 10 is finished: 	977 s
+12 Packet 14 on process 15 is finished: 	980 s
+13 Packet 11 on process 12 is finished: 	984 s
+14 Packet 8 on process 9 is finished: 	980 s
+15 Packet 13 on process 14 is finished: 	1024 s
+16 Packet 10 on process 11 is finished: 	1037 s
+17 Packet 2 on process 3 is finished: 	989 s
+18 Packet 0 on process 1 is finished: 	1041 s
+19 Packet 1 on process 2 is finished: 	1049 s
+20 Packet 26 on process 27 is finished: 	1124 s
+21 Packet 22 on process 23 is finished: 	1137 s
+22 Packet 27 on process 28 is finished: 	1158 s
+23 Packet 20 on process 21 is finished: 	1159 s
+24 Packet 21 on process 22 is finished: 	1163 s
+25 Packet 28 on process 29 is finished: 	1177 s
+26 Packet 3 on process 4 is finished: 	1168 s
+27 Packet 6 on process 7 is finished: 	1252 s
+28 Packet 4 on process 5 is finished: 	1321 s
+29 Packet 5 on process 6 is finished: 	1378 s
+Combining FTLE files ... OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+OK!
+Finalizing ... 
+DONE. 

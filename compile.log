@@ -1,0 +1,72 @@
+Performing steps to compile Newman ...
+Compiling newman2D ... 
+rm -f *.o
+mpic++ -DND=2 -c -W -Wall newman.cpp -o newman.o
+mpic++ -DND=2 -c -W -Wall parallel.cpp -o parallel.o
+mpic++ -DND=2 -c -W -Wall errors.cpp -o errors.o
+mpic++ -DND=2 -c -W -Wall boundary.cpp -o boundary.o
+boundary.cpp:139: warning: unused parameter 't'
+mpic++ -DND=2 -c -W -Wall tracers.cpp -o tracers.o
+mpic++ -DND=2 -c -W -Wall integrate.cpp -o integrate.o
+integrate.cpp:25: warning: unused parameter 'params'
+integrate.cpp:32: warning: unused parameter 'params'
+mpic++ -DND=2 -c -W -Wall velocity.cpp -o velocity.o
+velocity.cpp:23: warning: unused parameter 't'
+velocity.cpp:421: warning: unused parameter 't'
+velocity.cpp:421: warning: unused parameter 'X'
+velocity.cpp:421: warning: unused parameter 'dfdX'
+velocity.cpp:421: warning: unused parameter 'dfdt'
+mpic++ -DND=2 -c -W -Wall ftle.cpp -o ftle.o
+mpic++ -DND=2 -c -W -Wall parameters.cpp -o parameters.o
+mpic++ -DND=2 -c -W -Wall data.cpp -o data.o
+mpic++ -DND=2 -c -W -Wall eqnparser.cpp -o eqnparser.o
+mpic++ -DND=2 -c -W -Wall mapcoord.cpp -o mapcoord.o
+mapcoord.cpp:11: warning: unused parameter 't'
+mapcoord.cpp:87: warning: unused parameter 't'
+mpic++ -lgsl -lgslcblas newman.o parallel.o errors.o boundary.o tracers.o integrate.o velocity.o ftle.o parameters.o data.o eqnparser.o mapcoord.o -o newman2D
+Compiling newman3D ... 
+rm -f *.o
+mpic++ -DND=3 -c -W -Wall newman.cpp -o newman.o
+mpic++ -DND=3 -c -W -Wall parallel.cpp -o parallel.o
+mpic++ -DND=3 -c -W -Wall errors.cpp -o errors.o
+mpic++ -DND=3 -c -W -Wall boundary.cpp -o boundary.o
+boundary.cpp:139: warning: unused parameter 'X'
+boundary.cpp:139: warning: unused parameter 't'
+mpic++ -DND=3 -c -W -Wall tracers.cpp -o tracers.o
+mpic++ -DND=3 -c -W -Wall integrate.cpp -o integrate.o
+integrate.cpp:25: warning: unused parameter 'params'
+integrate.cpp:32: warning: unused parameter 'params'
+mpic++ -DND=3 -c -W -Wall velocity.cpp -o velocity.o
+velocity.cpp:421: warning: unused parameter 't'
+velocity.cpp:421: warning: unused parameter 'X'
+velocity.cpp:421: warning: unused parameter 'dfdX'
+velocity.cpp:421: warning: unused parameter 'dfdt'
+mpic++ -DND=3 -c -W -Wall ftle.cpp -o ftle.o
+mpic++ -DND=3 -c -W -Wall parameters.cpp -o parameters.o
+mpic++ -DND=3 -c -W -Wall data.cpp -o data.o
+mpic++ -DND=3 -c -W -Wall eqnparser.cpp -o eqnparser.o
+mpic++ -DND=3 -c -W -Wall mapcoord.cpp -o mapcoord.o
+mapcoord.cpp:11: warning: unused parameter 'X'
+mapcoord.cpp:11: warning: unused parameter 't'
+mapcoord.cpp:87: warning: unused parameter 'X'
+mapcoord.cpp:87: warning: unused parameter 't'
+mpic++ -lgsl -lgslcblas newman.o parallel.o errors.o boundary.o tracers.o integrate.o velocity.o ftle.o parameters.o data.o eqnparser.o mapcoord.o -o newman3D
+Compiling newman4D ... 
+rm -f *.o
+mpic++ -DND=4 -c -W -Wall newman.cpp -o newman.o
+mpic++ -DND=4 -c -W -Wall parallel.cpp -o parallel.o
+mpic++ -DND=4 -c -W -Wall errors.cpp -o errors.o
+mpic++ -DND=4 -c -W -Wall boundary.cpp -o boundary.o
+mpic++ -DND=4 -c -W -Wall tracers.cpp -o tracers.o
+mpic++ -DND=4 -c -W -Wall integrate.cpp -o integrate.o
+integrate.cpp:25: warning: unused parameter 'params'
+integrate.cpp:32: warning: unused parameter 'params'
+mpic++ -DND=4 -c -W -Wall velocity.cpp -o velocity.o
+mpic++ -DND=4 -c -W -Wall ftle.cpp -o ftle.o
+mpic++ -DND=4 -c -W -Wall parameters.cpp -o parameters.o
+mpic++ -DND=4 -c -W -Wall data.cpp -o data.o
+mpic++ -DND=4 -c -W -Wall eqnparser.cpp -o eqnparser.o
+mpic++ -DND=4 -c -W -Wall mapcoord.cpp -o mapcoord.o
+mpic++ -lgsl -lgslcblas newman.o parallel.o errors.o boundary.o tracers.o integrate.o velocity.o ftle.o parameters.o data.o eqnparser.o mapcoord.o -o newman4D
+Finished.
+Executables are in ./src
